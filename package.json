@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@crossmint/client-sdk-react-ui": "^2.0.0",
+    "@heroicons/react": "^2.2.0",
+    "@wagmi/core": "^2.17.2",
+    "ethers": "^6.14.1",
+    "opensea-js": "^7.1.18",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "thirdweb": "^5.102.0",
+    "wagmi": "^2.15.4"
+  },
+  "devDependencies": {
+    "rollup-plugin-visualizer": "^6.0.0",
+    "vite-imagetools": "^7.1.0"
+  }
+}
